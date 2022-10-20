@@ -37,7 +37,7 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Para visualizar o layout do projeto  <a href = "https://rocketpay.netlify.app/" target="_blank"><img  align="center" width="100" src="https://img.shields.io/badge/-Visualizar-212121?style=square&logo=Netlify&logoColor=f13b12&link=http://fast-fit.netlify.app/"></a>
 
 ## :memo: Licença
 
